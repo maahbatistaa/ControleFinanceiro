@@ -15,4 +15,4 @@ Utiliza armazenamento local, mantendo os dados mesmo após o fechamento da aba/n
 # Como utilizar
 Pode ser utlizado de duas formas: <br>
 • Clonando o repositorio e executando em localhost. <br>
-• Acessando o site: https://github.com/maahbatistaa/ControleFinanceiro
+• Acessando o site: https://maahbatistaa.github.io/ControleFinanceiro/
